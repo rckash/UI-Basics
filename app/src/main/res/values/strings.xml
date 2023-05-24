@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UI Basics</string>
+    <string name="app_hello">Hello World Again!</string>
+</resources>
