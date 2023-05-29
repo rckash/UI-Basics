@@ -17,7 +17,7 @@
         android:padding="10dp"
         android:text="@string/app_hello"
         android:textAlignment="center"
-        android:textColor="#5CA657"
+        android:textColor="@color/black"
         android:textSize="20sp" />
 
     <TextView
@@ -29,3 +29,5 @@
         android:text="@string/app_hello"
         android:textAlignment="center"
         android:textSize="20sp" />
+
+</LinearLayout>
