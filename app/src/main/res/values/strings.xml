@@ -3,4 +3,7 @@
     <string name="app_hello">Hello World Again!</string>
     <string name="app_title">King of Tekken</string>
     <string name="app_edit_profile">Edit Profile</string>
+    <string name="app_result">result</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="confirm">Confirm</string>
 </resources>
